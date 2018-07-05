@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182072821190",
+    "firebase_url": "https://proyectofinal-6e068.firebaseio.com",
+    "project_id": "proyectofinal-6e068",
+    "storage_bucket": "proyectofinal-6e068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182072821190:android:f7961fe2a7c302dc",
+        "android_client_info": {
+          "package_name": "com.example.arman.tm7100"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182072821190-ui4e5pnnnfeghs6ejftfncfjshob5k0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arman.tm7100",
+            "certificate_hash": "ab03c50773cf12ca8b892a989d7debbdcc1e6658"
+          }
+        },
+        {
+          "client_id": "182072821190-jdls1kkek19pdrqcpfihslnci54j7si5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9FRv4LpG_Osai5gqXJ2KfTdCrQpHmbyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182072821190-jdls1kkek19pdrqcpfihslnci54j7si5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
